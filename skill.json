@@ -16,8 +16,8 @@
           ],
           "name": "BounceFM",
           "description": "Listen to Bounce Radio Radio, out with the old, in with the new.\n\nBounce Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch BounceFM\" or \"Alexa, play BounceFM \" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
-          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
-          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+          "smallIconUri": "https://i.ibb.co/HDDcNJG/7745cfd8fa75f53382cea3fec4492c57-1.png",
+          "largeIconUri": "https://i.ibb.co/LdGs1Zg/7745cfd8fa75f53382cea3fec4492c57-2.png"
         },
         "en-GB": {
           "summary": "Listen to the UK's best variety internet radio station.",
@@ -33,8 +33,8 @@
           ],
           "name": "BounceFM",
           "description": "Listen to Bounce Radio Radio, out with the old, in with the new.\n\nBounce Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch BounceFM\" or \"Alexa, play BounceFM \" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
-          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
-          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+          "smallIconUri": "https://i.ibb.co/HDDcNJG/7745cfd8fa75f53382cea3fec4492c57-1.png",
+          "largeIconUri": "https://i.ibb.co/LdGs1Zg/7745cfd8fa75f53382cea3fec4492c57-2.png"
       },
       "isAvailableWorldwide": true,
       "testingInstructions": "Include your testing instruction (if any) here",
