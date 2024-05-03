@@ -3,39 +3,38 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Listen to Pepper Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to the UK's best variety internet radio station.",
           "examplePhrases": [
-            "Alexa, open Pepper Radio",
-            "Alexa, play Pepper Radio",
-            "Alexa, ask Pepper Radio to play"
+            "Alexa, open Bounce FM",
+            "Alexa, play Bounce FM",
+            "Alexa, ask Bounce FM to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "Pepper Radio",
-          "description": "Listen to Pepper Radio, with less bla bla bla, and more la la la.\n\npepper radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch pepper radio\" or \"Alexa, play pepper radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "BounceFM",
+          "description": "Listen to Bounce Radio Radio, out with the old, in with the new.\n\nBounce Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch BounceFM\" or \"Alexa, play BounceFM \" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-GB": {
-          "summary": "Listen to Pepper Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to the UK's best variety internet radio station.",
           "examplePhrases": [
-            "Alexa, open Pepper Radio",
-            "Alexa, play Pepper Radio",
-            "Alexa, ask Pepper Radio to play"
+            "Alexa, open Bounce FM",
+            "Alexa, play Bounce FM",
+            "Alexa, ask Bounce FM to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "Pepper Radio",
-          "description": "Listen to Pepper Radio, with less bla bla bla, and more la la la.\n\npepper radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch pepper radio\" or \"Alexa, play pepper radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "BounceFM",
+          "description": "Listen to Bounce Radio Radio, out with the old, in with the new.\n\nBounce Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch BounceFM\" or \"Alexa, play BounceFM \" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
-        }
       },
       "isAvailableWorldwide": true,
       "testingInstructions": "Include your testing instruction (if any) here",
